@@ -2,7 +2,7 @@
 
 This repository contains the notebook and code for [my blogpost](http://www.degeneratestate.org/posts/2017/May/05/turing-patterns/) on Turing-Patterns. 
 
-# README for TwoDimensionalRDEquations Simulation
+# TwoDimensionalRDEquations Simulation
 
 ## Introduction
 This README provides instructions on how to set up and run the TwoDimensionalRDEquations simulation. The simulation models two-dimensional reaction-diffusion equations, allowing users to explore various parameters' effects on the system's evolution.
