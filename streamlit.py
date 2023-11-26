@@ -115,6 +115,7 @@ if st.session_state["display_output"]:
             )
 
             # Read the saved file into a BytesIO object
+        with open(gif_file_name, "rb") as file:
             buf_2 = BytesIO()
             buf_2.write(file.read())
             buf_2.seek(0)
