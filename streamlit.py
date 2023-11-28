@@ -128,4 +128,4 @@ if st.session_state["display_output"]:
                 mime="image/gif",
             )
 else:
-    st.write("Hello please key in your input")
+    st.write("This data visualisation reflects on the natural world and the mathematical laws that govern it. It is part of a project to create a narrative that threads together the beauty of numerical patterns with the tactile richness of textiles. Have fun!")
