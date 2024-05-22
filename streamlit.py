@@ -135,6 +135,7 @@ Hello there!
 To begin, tweak the values of each parameter to generate a pattern that is unique to you.
 
 Tick “spatial” if you’d like to generate a symmetrical pattern.
+
 Tick “gif” if you’d like to generate an animation for your unique pattern development.
 
 Rename the Output file name to your IG handle and I will send you the gif/image you generated!
