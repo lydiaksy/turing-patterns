@@ -128,15 +128,7 @@ if st.session_state["display_output"]:
                 mime="image/gif",
             )
 else:
-    st.write("Hello there!
-
-Start tweaking the values of each parameter to generate a pattern that is unique to you!
-
-Tick ”spatial” if you’d like to generate a symmetrical pattern
-
-Tick “gif” if you’d like to generate an animation for your unique pattern development
-
-Have fun :)
+    st.write("Hello there! Start tweaking the values of each parameter to generate a pattern that is unique to you! Tick ”spatial” if you’d like to generate a symmetrical pattern Tick “gif” if you’d like to generate an animation for your unique pattern development Have fun :)
 
 Key features:
 Reaction-diffusion simulation
