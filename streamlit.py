@@ -128,9 +128,29 @@ if st.session_state["display_output"]:
                 mime="image/gif",
             )
 else:
-    st.write("Hello there :)")
-    st.write("To begin, tweak the values of each parameter to generate a pattern that is unique to you
-")
-st.write("Tick ”spatial” if you’d like to generate a symmetrical pattern
+    st.write("""
 
-")
+Hello there 🙂
+
+To begin, tweak the values of each parameter to generate a pattern that is unique to you.
+
+Tick “spatial” if you’d like to generate a symmetrical pattern.
+
+Tick “gif” if you’d like to generate an animation for your unique pattern development.
+
+Rename the Output file name to your IG handle and I will send you the gif/image you generated!
+
+Have fun 🙂
+
+This website aims to reflect on the natural world and the mathematical laws that govern it. My design practice aims to create narratives that thread together the beauty of numerical patterns with the tactile richness of textiles.
+
+@lydiak0k
+
+Key features:
+
+- Reaction-diffusion simulation
+- Image generation
+- Interactive parameters
+- Batch image generation
+""")
+
