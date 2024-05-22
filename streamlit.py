@@ -13,7 +13,7 @@ WIDTH, HEIGHT, DX, DT = 200, 200, 1, 0.001
 st.session_state.setdefault("display_output", False)
 
 # Title
-st.title("🌀 Nature is Data 🌀")
+st.title("🌀 Nature is Data 🌀 Generate your own patterns")
 
 
 # Function to create sidebar sliders
