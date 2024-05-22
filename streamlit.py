@@ -13,7 +13,7 @@ WIDTH, HEIGHT, DX, DT = 200, 200, 1, 0.001
 st.session_state.setdefault("display_output", False)
 
 # Title
-st.title("🌀 Turing Pattern 🌀")
+st.title("🌀 Nature is Data 🌀")
 
 
 # Function to create sidebar sliders
@@ -128,4 +128,22 @@ if st.session_state["display_output"]:
                 mime="image/gif",
             )
 else:
-    st.write("This data visualisation reflects on the natural world and the mathematical laws that govern it. It is part of a project to create a narrative that threads together the beauty of numerical patterns with the tactile richness of textiles. Have fun!")
+    st.write("Hello there!
+
+Start tweaking the values of each parameter to generate a pattern that is unique to you!
+
+Tick ”spatial” if you’d like to generate a symmetrical pattern
+
+Tick “gif” if you’d like to generate an animation for your unique pattern development
+
+Have fun :)
+
+Key features:
+Reaction-diffusion simulation
+Image generation
+Interactive parameters
+Batch image generation
+
+This website aims to reflect on the natural world and the mathematical laws that govern it. My design practice aims to create narratives that threads together the beauty of numerical patterns with the tactile richness of textiles.
+
+@lydiak0k")
