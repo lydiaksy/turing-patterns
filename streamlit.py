@@ -130,7 +130,7 @@ if st.session_state["display_output"]:
 else:
     st.write("""
 
-Hello there 🙂
+Hello there!
 
 To begin, tweak the values of each parameter to generate a pattern that is unique to you.
 
@@ -140,7 +140,7 @@ Tick “gif” if you’d like to generate an animation for your unique pattern 
 
 Rename the Output file name to your IG handle and I will send you the gif/image you generated!
 
-Have fun 🙂
+Have fun!
 
 This website aims to reflect on the natural world and the mathematical laws that govern it. My design practice aims to create narratives that thread together the beauty of numerical patterns with the tactile richness of textiles.
 
